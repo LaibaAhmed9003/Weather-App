@@ -14,7 +14,6 @@ Technologies Used
 - HTML.
 - CSS.
 - JavaScript.
-- OpenWeatherMap API.
 
 Usage:
 
